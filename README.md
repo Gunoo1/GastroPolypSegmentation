@@ -9,4 +9,4 @@ After training, a peak accuracy of 96.8% was reached with the resnet-34 model.
 
 # TO RUN
 
-download the notebook and upload to a kaggle notebook for easiest use. 
+Download the notebook and upload to a kaggle notebook for easiest use. Utilize gpu T4 x2 and make sure internet is on.
