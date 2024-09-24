@@ -7,6 +7,6 @@ The purpose of this project is to improve upon current methods of gastrointestin
 
 After training, a peak accuracy of 96.8% was reached with the resnet-34 model.
 
-#TO RUN
+# TO RUN
 
 download the notebook and upload to a kaggle notebook for easiest use. 
