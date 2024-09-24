@@ -9,4 +9,4 @@ After training, a peak accuracy of 96.8% was reached with the resnet-34 model.
 
 #TO RUN
 
-download the notebook and upload to a kaggle notebook for easiest use. Otherwise if you want to ues jupyter notebook utilize the dataset uploaded above.
+download the notebook and upload to a kaggle notebook for easiest use. 
